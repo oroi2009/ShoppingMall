@@ -1,0 +1,37 @@
+[
+    {
+        "buyProduct": [
+            "오케이 후드 크림",
+            "커브드 벌룬 워싱 데님 팬츠_블루",
+            "소노 케이블 헨리넥 니트_Oatmeal"
+        ],
+        "password": "1234",
+        "address": "성북구",
+        "money": 7300,
+        "loggedin": false,
+        "tel": "01012345678",
+        "id": "1234",
+        "cart": ["소노 케이블 헨리넥 니트_Oatmeal"]
+    },
+    {
+        "buyProduct": [
+            "에비에이터 B-3 무스탕 자켓 [블랙]",
+            "크루넥 리브 니트 스웨터_브라운"
+        ],
+        "password": "4567",
+        "address": "kiljljli",
+        "money": 35000,
+        "loggedin": false,
+        "tel": "01033333333",
+        "id": "4567",
+        "cart": [
+            "SANTO RT 1014 C1 BLACK",
+            "빅 사이즈 머플러 [미디엄 그레이]",
+            "소노 케이블 헨리넥 니트_Oatmeal",
+            "오케이 후드 크림",
+            "커브드 벌룬 워싱 데님 팬츠_블루",
+            "더블 사이드 라인 트랙 버티컬 팬츠",
+            "WAVE LOGO DENIM JUMPER INDIGO"
+        ]
+    }
+]
